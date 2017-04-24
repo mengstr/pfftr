@@ -1,0 +1,20 @@
+# Editor backup files
+*~
+*.bak
+
+#
+.DS_Store
+
+# Some private folders
+private/
+tmp/
+
+# Created by the Makefile
+Makefile.tmp
+*.lst
+*.inc
+*.tmp
+
+# Executables and results
+*.tap
+zx7
